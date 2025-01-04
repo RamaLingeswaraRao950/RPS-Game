@@ -13,7 +13,7 @@
 
 ## Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML5, CSS3, JavaScript
 - **Storage**: Local Storage for managing win counts.
 
 ## Screenshots
