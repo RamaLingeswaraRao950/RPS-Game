@@ -6,7 +6,7 @@
 
 ## Features
 
-- **User Move Selection**: Choose between Stone, Paper, and Scissors to play against the computer.
+- **User Move Selection**: Choose between Rock, Paper, Scissor to play against the computer.
 - **Computer Move**: The computer randomly selects its move.
 - **Win Tracking**: The win count increases for the player or the computer based on the outcome of each round.
 - **Persistent Storage**: Win counts are stored in the local storage for easy access.
@@ -17,8 +17,5 @@
 - **Storage**: Local Storage for managing win counts.
 
 ## Screenshots
-
 ![Win Count](https://github.com/user-attachments/assets/2ef67b1f-2498-4fa2-9f37-76164a3c7816)
 *Description: Displays the win count for both the player and the computer.*
-
-Thank you for checking out this game!
